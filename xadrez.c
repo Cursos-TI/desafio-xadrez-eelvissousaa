@@ -3,6 +3,6 @@
  
 int main() {
     printf("Desafio Xadrez\n");
-    printf("Nove commit\n");
+    printf("Novo commit\n");
     return 0;
 }
